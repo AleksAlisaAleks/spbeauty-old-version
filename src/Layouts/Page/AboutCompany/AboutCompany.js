@@ -9,11 +9,11 @@ function AboutCompany() {
             <div className="row mt-5">
                 <div className="col-md-6">
                     <General />
-                    </div>
-                    <div className="col-md-6">
-                    <Addresses />
-                    </div>
                 </div>
+                <div className="col-md-6">
+                    <Addresses />
+                </div>
+            </div>
         </div>
     );
 }

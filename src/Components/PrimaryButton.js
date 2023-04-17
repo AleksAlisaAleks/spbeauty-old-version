@@ -5,7 +5,7 @@ import styled from "styled-components";
 
 function PrimaryButton(props) {
     // Здесь устанавливается минимальная ширина для кнопки
-    let minWidth = props.minWidth === undefined ? '120px' : props.minWidth; 
+    let minWidth = props.minWidth === undefined ? '220px' : props.minWidth; 
     const Button = styled.div`
         background: #FFFFFF;
         border: 1px solid #152842;
