@@ -17,9 +17,6 @@ const Select = styled.select`
     color: #666787;
     width: 447px;
     height: 36px;
-    &:hover {
-        background-color: #0F172A;
-    }
 `;
 
 const titleStyle = {
